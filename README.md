@@ -1,6 +1,28 @@
+# 🔥 IMPORTANT NOTICE 🔥
+
+**Due to the recent license change of [the original repo](https://github.com/plankanban/planka) [MIT -> AGPL-3.0], I decided to clone the latest MIT-licensed version of this repo and keep updating/improving the project under the MIT license.**
+
+**Here is the link to the new repo:**
+
+**➡️➡️➡️➡️➡️ https://github.com/RARgames/4gaBoards ⬅️⬅️⬅️⬅️⬅️**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Orginal readme below.
+
 # Planka
 
-![David (path)](https://img.shields.io/github/package-json/v/plankanban/planka) ![Docker Pulls](https://img.shields.io/docker/pulls/meltyshev/planka) ![GitHub](https://img.shields.io/github/license/plankanban/planka)
+![David (path)](https://img.shields.io/github/package-json/v/plankanban/planka) ![Docker Pulls](https://img.shields.io/docker/pulls/meltyshev/planka) ![GitHub](https://img.shields.io/github/license/RARgames/planka)
 
 A Trello-like kanban board built with React and Redux.
 
