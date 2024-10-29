@@ -6,6 +6,9 @@
 
 **➡️➡️➡️➡️➡️ https://github.com/RARgames/4gaBoards ⬅️⬅️⬅️⬅️⬅️**
 
+
+This change was required to preserve the MIT license, change project vision, and add some new features.
+
 &nbsp;
 
 &nbsp;
